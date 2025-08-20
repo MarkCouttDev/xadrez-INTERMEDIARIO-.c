@@ -1,0 +1,1 @@
+# xadrez-INTERMEDIARIO-.c
